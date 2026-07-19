@@ -37,10 +37,9 @@ Instead of waiting 15 minutes for an FEA solver to calculate brake temperatures,
 
 ---
 
-## 📂 Repository Structure
 
-| File Name | Description |
-| :--- | :--- |
+| File Name | 
+| Predictive-Braking-Digital-Twin |
 | `train_model.py` | The Python script used to train the Random Forest model on ANSYS data. |
 | `brake_thermal_surrogate.pkl` | The exported AI Brain (Model weights). |
 | `dashboard.py` | The Streamlit application script for the live Digital Twin UI. |
@@ -59,5 +58,5 @@ Launch the Dashboard:
 Bash
 streamlit run dashboard.py
 Conceptualized and Developed by Tanish Dhiman | R&D Simulation integrating ANSYS, MATLAB, and AI.*
-   git clone [https://github.com/YOUR_USERNAME/Predictive-Braking-Digital-Twin.git](https://github.com/YOUR_USERNAME/Predictive-Braking-Digital-Twin.git)
+   git clone [https://github.com/wwwtanisharishdhiman67-blip/Predictive-Braking-Digital-Twin.git](https://github.com/YOUR_USERNAME/Predictive-Braking-Digital-Twin.git)
    cd Predictive-Braking-Digital-Twin
